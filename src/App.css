@@ -1,0 +1,15 @@
+body {
+  background-color:lightsteelblue;
+}
+
+fieldset {
+  border: 1px solid #999;
+  border-radius: 5px;
+}
+
+legend {
+  float: none;
+  width: auto;
+  margin: 0px;
+  font-size: 0.8rem;
+}
